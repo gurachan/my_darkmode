@@ -300,24 +300,53 @@ span._26kJ0._2FR4x {
 }
 
 .uqCpu ._2WiQc:hover {
-    background-color: #323232;
-    color: whitesmoke;
+    background-color: #323232 !important;
+    color: whitesmoke !important;
 }
 
 .uqCpu .uOkpe {
-    border: none;
+    border: none !important;
 }
 
 .uqCpu ._1Gh9e {
-    background-color: #202124;
+    background-color: #202124 !important;
 }
 
 .uqCpu .uOkpe:hover {
-    background-color: #323232;
+    background-color: #323232 !important;
 }
 
 ._2WiQc._1Gh9e {
-    color: whitesmoke;
+    color: whitesmoke !important;
+}
+
+._11VOS {
+    background: #202124 !important;
+    border-top: none !important;
+}
+
+.xzblA {
+    background-color: #202124 !important;
+}
+
+._2igzU._3LUrt {
+    color: #c790ff !important;
+}
+
+._2QKoe {
+    background-color: #202124 !important;
+}
+
+._6tX_H{
+   background-color: #202124 !important;
+}
+
+._3jHvQ{
+   background-color: #202124 !important;
+}
+
+.saQLX {
+    color: whitesmoke !important;
 }
     `);
 })
