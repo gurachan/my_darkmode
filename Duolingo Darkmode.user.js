@@ -159,5 +159,8 @@ span._26kJ0._2FR4x {
 ._15-md {
     color: whitesmoke !important;
 }
+._1HA7Y > h2 {
+    color: #dd7f7f;
+}
     `);
 })();
