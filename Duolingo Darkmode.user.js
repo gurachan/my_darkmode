@@ -381,6 +381,14 @@ span._26kJ0._2FR4x {
     color: whitesmoke !important;
 }
 
+._2cQin {
+  color: whitesmoke  !important;
+}
+
+._2IZtO {
+  color: #e59e9e  !important;
+}
+
     `);
 })
 
