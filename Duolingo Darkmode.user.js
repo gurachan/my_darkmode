@@ -348,6 +348,10 @@ span._26kJ0._2FR4x {
 .saQLX {
     color: whitesmoke !important;
 }
+
+.SBf4a {
+   background: #202124 !important;
+}
     `);
 })
 
