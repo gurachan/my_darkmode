@@ -155,7 +155,7 @@ span._13HXc {
 ._2NolF:disabled:not(._1rl91):before {
 	background-color: #1cb0f6 !important;
 	cursor: pointer !important;
-    box-shadow: 0 var(--__internal__lip-width) 0 var(--web-ui_button-border-color,#1899d6) !important;
+    box-shadow: 0 var(--__internal__lip-width) 0 #179cdb !important;
 }
 
 ._15J0U {
@@ -352,6 +352,35 @@ span._26kJ0._2FR4x {
 .SBf4a {
    background: #202124 !important;
 }
+
+._3oNvD {
+   background: #202124 !important;
+}
+
+._1jKLW {
+   background: #202124 !important;
+}
+
+._2GPX6 {
+   background: #202124 !important;
+}
+
+.hOVdl {
+    color: #f9aeae !important;
+}
+
+._1VA3z {
+    color: mediumpurple !important;
+}
+
+._3ZuGY {
+    background: rebeccapurple !important;
+}
+
+._1wy04 {
+    color: whitesmoke !important;
+}
+
     `);
 })
 
