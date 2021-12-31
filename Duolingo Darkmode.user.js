@@ -143,9 +143,21 @@ span._26kJ0._2FR4x {
     color: #b66eff;
 }
 ._9C_ii {
-    --web-ui_button-background-color: #398302;
-    --web-ui_button-border-color: #254401;
-    --web-ui_button-color: #fff;
+    --web-ui_button-background-color: #398302 !important;
+    --web-ui_button-border-color: #254401 !important;
+    --web-ui_button-color: #fff !important;
+}
+._2jQLr {
+    color: whitesmoke !important;
+}
+._2QnAf {
+     color: whitesmoke !important;
+}
+.OhXul {
+    color: whitesmoke !important;
+}
+._15-md {
+    color: whitesmoke !important;
 }
     `);
 })();
