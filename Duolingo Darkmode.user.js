@@ -150,6 +150,7 @@ window.addEventListener('load', function () {
   ._2NolF:disabled:not(._1rl91):before {
       background-color: #1cb0f6;
       cursor: pointer;
+      box-shadow: 0 var(--__internal__lip-width) 0 var(--web-ui_button-border-color,#1899d6);
   }
   
   ._15J0U {
