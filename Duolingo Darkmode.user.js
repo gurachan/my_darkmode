@@ -398,8 +398,24 @@ span._26kJ0._2FR4x {
 	color: whitesmoke !important;
 }
 
+._1eSrF {
+    background: #ffffff1c !important;
+}
+
+.rmbzf:hover {
+    background: #ffffff1c !important;
+}
+
+td._1CsoA._2cAA0 {
+    color: #999  !important;
+}
+
+h3._1Y-pT {
+    color: #999 !important;
+}
+
 ._2cQin {
-	color: whitesmoke !important;
+	color: #999 !important;
 }
 
 ._2IZtO {
